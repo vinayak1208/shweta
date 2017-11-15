@@ -1,0 +1,360 @@
+src/com/cg/assetmanagement/bean/Asset.java:18:	headerCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:25:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:26:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:28:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:30:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:32:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:36:	Parameter 'assetId' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Asset.java:36:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:40:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:44:	Parameter 'assetName' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Asset.java:44:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:48:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:52:	Parameter 'assetDesc' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Asset.java:52:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:56:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:60:	Parameter 'quantity' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Asset.java:60:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Asset.java:64:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:23:	headerCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:26:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:38:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/assetmanagement/bean/AssetAllocation.java:38:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:40:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/assetmanagement/bean/AssetAllocation.java:40:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:42:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/assetmanagement/bean/AssetAllocation.java:42:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:44:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/assetmanagement/bean/AssetAllocation.java:44:	Variables should start with a lowercase character, 'AllocationDate' starts with uppercase character.
+src/com/cg/assetmanagement/bean/AssetAllocation.java:44:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:46:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/assetmanagement/bean/AssetAllocation.java:46:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:47:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/assetmanagement/bean/AssetAllocation.java:47:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:48:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/assetmanagement/bean/AssetAllocation.java:48:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:51:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/assetmanagement/bean/AssetAllocation.java:51:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:55:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:59:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:64:	Parameter 'assetId' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:64:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:70:	Parameter 'allocationId' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:70:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:76:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:81:	Parameter 'empNo' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:81:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:86:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:91:	Parameter 'allocationDate' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:91:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:96:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:101:	Parameter 'releaseDate' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:101:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:106:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:111:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:111:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:116:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:121:	Parameter 'mgrId' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:121:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:126:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:131:	Parameter 'requestedQuantity' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:131:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:135:	Parameter 'allocationId' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:135:	Parameter 'assetId' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:135:	Parameter 'empNo' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:135:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/AssetAllocation.java:136:	Parameter 'allocationDate' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:136:	Parameter 'releaseDate' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:136:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:137:	Parameter 'mgrId' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:137:	Parameter 'requestedQuantity' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/AssetAllocation.java:149:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:21:	headerCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:29:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:30:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:31:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/assetmanagement/bean/Employee.java:32:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:33:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:35:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:37:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:40:	Parameter 'empNo' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Employee.java:40:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:43:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:46:	Parameter 'ename' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Employee.java:46:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:49:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:52:	Parameter 'job' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Employee.java:52:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:55:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:58:	Parameter 'mgr' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Employee.java:58:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:61:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:64:	Parameter 'hiredate' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Employee.java:64:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:67:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:70:	Parameter 'deptId' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Employee.java:70:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Employee.java:73:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:15:	headerCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:18:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:20:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:22:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:23:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:24:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:30:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:35:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:39:	Parameter 'userId' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Login.java:39:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:43:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:47:	Parameter 'userName' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Login.java:47:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:51:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:55:	Parameter 'userPassword' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Login.java:55:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:59:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:63:	Parameter 'userType' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Login.java:63:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:67:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/bean/Login.java:71:	Parameter 'empNo' is not assigned and could be declared final
+src/com/cg/assetmanagement/bean/Login.java:71:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:27:	Each class should declare at least one constructor
+src/com/cg/assetmanagement/controller/AssetController.java:27:	headerCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:29:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:31:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:34:	Parameter 'service' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:34:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:39:	Method names should not start with capital letters
+src/com/cg/assetmanagement/controller/AssetController.java:39:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:39:	Parameter 'request' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:39:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:41:	Local variable 'session' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:42:	Avoid if (x != y) ..; else ..;
+src/com/cg/assetmanagement/controller/AssetController.java:42:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:42:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:42:	The String literal "password" appears 6 times in this file; the first occurrence is on line 42
+src/com/cg/assetmanagement/controller/AssetController.java:42:	The String literal "username" appears 6 times in this file; the first occurrence is on line 42
+src/com/cg/assetmanagement/controller/AssetController.java:43:	Local variable 'mgrId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:43:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:43:	The String literal "empNo" appears 6 times in this file; the first occurrence is on line 43
+src/com/cg/assetmanagement/controller/AssetController.java:44:	System.out.println is used
+src/com/cg/assetmanagement/controller/AssetController.java:45:	Local variable 'allocId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:46:	The String literal "allocId" appears 6 times in this file; the first occurrence is on line 46
+src/com/cg/assetmanagement/controller/AssetController.java:47:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/assetmanagement/controller/AssetController.java:50:	The String literal "redirect:../index2.asset" appears 5 times in this file; the first occurrence is on line 50
+src/com/cg/assetmanagement/controller/AssetController.java:57:	Method names should not start with capital letters
+src/com/cg/assetmanagement/controller/AssetController.java:57:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:57:	Parameter 'request' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:57:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:60:	Local variable 'session' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:61:	Avoid if (x != y) ..; else ..;
+src/com/cg/assetmanagement/controller/AssetController.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:62:	Local variable 'assetIds' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:63:	Local variable 'mgrId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:63:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:64:	Local variable 'allocId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:69:	Local variable 'empIds' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:70:	System.out.println is used
+src/com/cg/assetmanagement/controller/AssetController.java:74:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/assetmanagement/controller/AssetController.java:82:	Method names should not start with capital letters
+src/com/cg/assetmanagement/controller/AssetController.java:82:	Parameter 'assetRequest' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:82:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:82:	Parameter 'request' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:82:	Parameter 'result' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:82:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:84:	Local variable 'session' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:85:	Avoid if (x != y) ..; else ..;
+src/com/cg/assetmanagement/controller/AssetController.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:89:	Local variable 'assetIds' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:90:	Local variable 'mgrId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:90:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:91:	Local variable 'allocId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:96:	Local variable 'empIds' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:97:	System.out.println is used
+src/com/cg/assetmanagement/controller/AssetController.java:101:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/assetmanagement/controller/AssetController.java:105:	Local variable 'mgrId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:105:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:106:	Local variable 'allocId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:108:	Local variable 'quantity' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:109:	System.out.println is used
+src/com/cg/assetmanagement/controller/AssetController.java:110:	Position literals first in String comparisons
+src/com/cg/assetmanagement/controller/AssetController.java:110:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:113:	Local variable 'display' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:118:	Avoid excessively long variable names like assetRequestSuccess
+src/com/cg/assetmanagement/controller/AssetController.java:118:	Local variable 'assetRequestSuccess' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:119:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:120:	Local variable 'successMessage' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:123:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/assetmanagement/controller/AssetController.java:131:	Method names should not start with capital letters
+src/com/cg/assetmanagement/controller/AssetController.java:131:	Parameter 'allocationId' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:131:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:131:	Parameter 'request' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:131:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:133:	Local variable 'session' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:134:	Avoid if (x != y) ..; else ..;
+src/com/cg/assetmanagement/controller/AssetController.java:134:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:134:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:135:	Local variable 'mgrId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:135:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:136:	System.out.println is used
+src/com/cg/assetmanagement/controller/AssetController.java:137:	Local variable 'allocId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:139:	Local variable 'status' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:140:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/assetmanagement/controller/AssetController.java:148:	Method names should not start with capital letters
+src/com/cg/assetmanagement/controller/AssetController.java:148:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:148:	Parameter 'request' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:148:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:150:	Local variable 'session' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:152:	Avoid if (x != y) ..; else ..;
+src/com/cg/assetmanagement/controller/AssetController.java:152:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:152:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:154:	Local variable 'mgrId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:154:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:155:	System.out.println is used
+src/com/cg/assetmanagement/controller/AssetController.java:156:	Local variable 'allocId' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:158:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/assetmanagement/controller/AssetController.java:167:	Avoid variables with short names like m
+src/com/cg/assetmanagement/controller/AssetController.java:167:	Parameter 'm' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:167:	Parameter 'req' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:167:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/AssetController.java:168:	System.out.println is used
+src/com/cg/assetmanagement/controller/AssetController.java:169:	Local variable 'session' could be declared final
+src/com/cg/assetmanagement/controller/AssetController.java:171:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:172:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:173:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/AssetController.java:175:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/LoginController.java:16:	Each class should declare at least one constructor
+src/com/cg/assetmanagement/controller/LoginController.java:16:	headerCommentRequirement Required
+src/com/cg/assetmanagement/controller/LoginController.java:19:	Use explicit scoping instead of the default package private level
+src/com/cg/assetmanagement/controller/LoginController.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/assetmanagement/controller/LoginController.java:20:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/controller/LoginController.java:23:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/LoginController.java:23:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/LoginController.java:26:	Avoid instantiating String objects; this is usually unnecessary.
+src/com/cg/assetmanagement/controller/LoginController.java:27:	Avoid instantiating String objects; this is usually unnecessary.
+src/com/cg/assetmanagement/controller/LoginController.java:28:	Avoid instantiating String objects; this is usually unnecessary.
+src/com/cg/assetmanagement/controller/LoginController.java:35:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/LoginController.java:35:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/LoginController.java:37:	Avoid instantiating String objects; this is usually unnecessary.
+src/com/cg/assetmanagement/controller/LoginController.java:38:	Avoid instantiating String objects; this is usually unnecessary.
+src/com/cg/assetmanagement/controller/LoginController.java:44:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/LoginController.java:44:	Parameter 'password' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/LoginController.java:44:	Parameter 'request' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/LoginController.java:44:	Parameter 'username' is not assigned and could be declared final
+src/com/cg/assetmanagement/controller/LoginController.java:44:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/controller/LoginController.java:48:	Local variable 'log' could be declared final
+src/com/cg/assetmanagement/controller/LoginController.java:50:	Local variable 'session' could be declared final
+src/com/cg/assetmanagement/controller/LoginController.java:51:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/LoginController.java:53:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/LoginController.java:54:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/LoginController.java:55:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/LoginController.java:55:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/controller/LoginController.java:56:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/assetmanagement/controller/LoginController.java:58:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cg/assetmanagement/controller/LoginController.java:61:	Avoid instantiating String objects; this is usually unnecessary.
+src/com/cg/assetmanagement/dao/AssetDao.java:18:	Each class should declare at least one constructor
+src/com/cg/assetmanagement/dao/AssetDao.java:18:	headerCommentRequirement Required
+src/com/cg/assetmanagement/dao/AssetDao.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/assetmanagement/dao/AssetDao.java:20:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/dao/AssetDao.java:22:	Comment is too large: Line too long
+src/com/cg/assetmanagement/dao/AssetDao.java:22:	Comment is too large: Too many lines
+src/com/cg/assetmanagement/dao/AssetDao.java:29:	Comment is too large: Line too long
+src/com/cg/assetmanagement/dao/AssetDao.java:31:	Parameter 'assetRequest' is not assigned and could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:31:	Parameter 'mgrId' is not assigned and could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:39:	The String literal "unchecked" appears 4 times in this file; the first occurrence is on line 39
+src/com/cg/assetmanagement/dao/AssetDao.java:41:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/AssetDao.java:44:	Avoid variables with short names like q
+src/com/cg/assetmanagement/dao/AssetDao.java:44:	Local variable 'q' could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:45:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:52:	Parameter 'mgrId' is not assigned and could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:52:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/AssetDao.java:53:	Avoid variables with short names like q
+src/com/cg/assetmanagement/dao/AssetDao.java:53:	Local variable 'q' could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:54:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:55:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:59:	Parameter 'password' is not assigned and could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:59:	Parameter 'username' is not assigned and could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:59:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/AssetDao.java:60:	Local variable 'query' could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:62:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:63:	Local variable 'log' could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:63:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:64:	Consider simply returning the value vs storing it in local variable 'log'
+src/com/cg/assetmanagement/dao/AssetDao.java:68:	Parameter 'empno' is not assigned and could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:68:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/AssetDao.java:70:	Avoid variables with short names like q
+src/com/cg/assetmanagement/dao/AssetDao.java:70:	Local variable 'q' could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:71:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:72:	Local variable 'list' could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:73:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:74:	Consider simply returning the value vs storing it in local variable 'list'
+src/com/cg/assetmanagement/dao/AssetDao.java:78:	Parameter 'assetNo' is not assigned and could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:78:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/AssetDao.java:80:	Avoid variables with short names like q
+src/com/cg/assetmanagement/dao/AssetDao.java:80:	Local variable 'q' could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:81:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:82:	Local variable 'quantity' could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:82:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:83:	Consider simply returning the value vs storing it in local variable 'quantity'
+src/com/cg/assetmanagement/dao/AssetDao.java:87:	Parameter 'allocationId' is not assigned and could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:87:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/AssetDao.java:89:	Avoid variables with short names like q
+src/com/cg/assetmanagement/dao/AssetDao.java:89:	Local variable 'q' could be declared final
+src/com/cg/assetmanagement/dao/AssetDao.java:90:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/AssetDao.java:91:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/assetmanagement/dao/IAssetDao.java:11:	headerCommentRequirement Required
+src/com/cg/assetmanagement/dao/IAssetDao.java:12:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/dao/IAssetDao.java:12:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/IAssetDao.java:14:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/dao/IAssetDao.java:14:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/IAssetDao.java:16:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/dao/IAssetDao.java:16:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/IAssetDao.java:18:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/dao/IAssetDao.java:18:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/IAssetDao.java:21:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/dao/IAssetDao.java:21:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/cg/assetmanagement/dao/IAssetDao.java:21:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/IAssetDao.java:22:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/dao/IAssetDao.java:22:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/dao/IAssetDao.java:23:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/dao/IAssetDao.java:23:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:19:	Each class should declare at least one constructor
+src/com/cg/assetmanagement/service/AssetAllocationService.java:19:	headerCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:22:	fieldCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:25:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:30:	Parameter 'dao' is not assigned and could be declared final
+src/com/cg/assetmanagement/service/AssetAllocationService.java:30:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:35:	Parameter 'assetRequest' is not assigned and could be declared final
+src/com/cg/assetmanagement/service/AssetAllocationService.java:35:	Parameter 'mgrId' is not assigned and could be declared final
+src/com/cg/assetmanagement/service/AssetAllocationService.java:35:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:46:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:53:	Parameter 'mgrId' is not assigned and could be declared final
+src/com/cg/assetmanagement/service/AssetAllocationService.java:53:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:60:	Parameter 'password' is not assigned and could be declared final
+src/com/cg/assetmanagement/service/AssetAllocationService.java:60:	Parameter 'username' is not assigned and could be declared final
+src/com/cg/assetmanagement/service/AssetAllocationService.java:60:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:67:	Parameter 'empno' is not assigned and could be declared final
+src/com/cg/assetmanagement/service/AssetAllocationService.java:67:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:71:	Parameter 'assetNo' is not assigned and could be declared final
+src/com/cg/assetmanagement/service/AssetAllocationService.java:71:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/AssetAllocationService.java:74:	Parameter 'allocationId' is not assigned and could be declared final
+src/com/cg/assetmanagement/service/AssetAllocationService.java:74:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:13:	headerCommentRequirement Required
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:14:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:14:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:16:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:16:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:18:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:18:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:20:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:20:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:23:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:23:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:23:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:25:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:25:	publicMethodCommentRequirement Required
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:26:	Avoid modifiers which are implied by the context
+src/com/cg/assetmanagement/service/IAssetAllocationService.java:26:	publicMethodCommentRequirement Required
